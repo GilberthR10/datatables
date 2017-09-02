@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fzaninotto/faker": "^1.6",
+        "larapack/dd": "^1.1"
+    }
+}
