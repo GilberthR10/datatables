@@ -6,7 +6,7 @@ class Users
 	
 	public function __construct()
 	{
-		$this->db = new PDO("mysql:host=localhost;dbname=codecrud","root","gilberthr10");
+		$this->db = new PDO("mysql:host=localhost;dbname=codecrud","root","");
 		$this->faker = Faker\Factory::create();
 	}
 
